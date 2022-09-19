@@ -96,7 +96,7 @@ export const config = {
     },
     {
       name: "徐小稀",
-      id: "ovHmd5zm8jUTp-wi-5oLYjBI8hmY",
+      id: "ovHmd5zS3FvrUHMHDQTn0e--OIto",
       useTemplateId: "OH_adctnZtaFeXrz6y1VcTyh9E5GTVaN7R3cybkkCtY",
       province: "湖南",
       city: "常德",
